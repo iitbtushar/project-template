@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "c932199c093ddda7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad4fa54be6cd83e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "251460e291262632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_notes/README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b64f9b95c5774a90",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd6c7dad4f89936c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e65a81eaa7c3b5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a37e89a6c4aa8398",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "58bc40b297c87f24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12a8e9604a3b6192",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9531a5a3d795310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9559fc85753e021c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2_codes/1_reference_codes/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "fe016d130b1b5b3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2_codes/1_reference_codes/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "8b0eedebf2dcd5f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f89bf2e7652d55b0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "12f091f924b086fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2_codes/1_reference_codes/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "f9ac9f92a174d733",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0e65a81eaa7c3b5f",
+  "lastOpenFiles": [
+    "4_meetings/Meeting - 2024-01-19.md",
+    "README.md",
+    "Kanban.md",
+    "2_codes/1_reference_codes/README.md",
+    "2_codes/2_workshop/README.md",
+    "5_admin/1_paper_submission/1_metadata.md",
+    "5_admin/1_paper_submission/README.md",
+    "5_admin/0_kanban/List down your thoughts in the Inbox.md",
+    "3_notes/README.md",
+    "1_library/README.md",
+    "3_notes/2_papers/README.md",
+    "3_notes/1_presentations/README.md",
+    "3_notes/2_papers",
+    "3_notes/1_presentations",
+    "3_notes",
+    "4_logs/2024-11-07.md",
+    "2_codes/3_paper_problems 1/README.md",
+    "2_codes/3_paper_problems 1",
+    "5_admin/0_templates/4_kanban.md",
+    "5_admin/0_templates/3_date-time.md",
+    "5_admin/0_templates/2_deconstruct_paper.md",
+    "5_admin/0_templates/1_meeting_notes.md",
+    "5_admin/1_latex_source/9_rebuttal/rebuttal.pdf",
+    "5_admin/1_latex_source/9_rebuttal/README.md",
+    "5_admin/1_latex_source/2_figures/README.md",
+    "5_admin/0_templates/5_daily_note.md",
+    "5_admin/1_latex_source/3_plots/README.md",
+    "5_admin/1_latex_source/3_plots/fea_vs_iga.pdf",
+    "5_admin/1_latex_source/3_plots/1_name_of_section/README.md",
+    "5_admin/1_latex_source/1_manuscript/README.md",
+    "4_logs/2025-01-31.md"
+  ]
+}
